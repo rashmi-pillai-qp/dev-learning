@@ -15,6 +15,8 @@ export class Customer {
         if (value)
             this.discount = value;
         else
-        this,this.discount = 0;
+            this.discount = 0;
     }
+
+
 }

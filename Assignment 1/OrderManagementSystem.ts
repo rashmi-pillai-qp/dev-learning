@@ -1,6 +1,6 @@
 // Order Management System - Handles orders
-import { Customer } from "./Assignment 1/Customer";
-import { Order } from "./Assignment 1/Order";
+import { Customer } from "./Customer";
+import { Order } from "./Order";
 class OrderManagementSystem {
     static main(): void {
         const customer = new Customer("John Doe", "VIP");
